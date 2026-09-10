@@ -1,6 +1,6 @@
 # ATTRIBUTIONS #
 
-Some models, sounds and images used in the trailer and game come from sources under Creative Commons licenses and are used with attribution.
+Some models and images used in the trailer and game come from sources under Creative Commons licenses and are used with attribution.
 It is intended to provide transparency and give proper credit to the original creators of the assets used.  
 All resources remain the property of their respective authors.
 
@@ -189,7 +189,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Stylized Book" (https://skfb.ly/6Vpvq) by magiccc is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Dark handbook of hands" (https://skfb.ly/oBNrB) by Max Drozdov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Stylized Rocks" (https://skfb.ly/oBNEx) by AyumiGranger is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- "Stylized Potion | FREE" (https://skfb.ly/oTEH7) by Sem is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Stylized Potion FREE" (https://skfb.ly/oTEH7) by Sem is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Free asset : Pirate Bomb" (https://skfb.ly/pCCpN) by Mohammad Abu Baker is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Burlap sack 2" (https://skfb.ly/ouNN7) by MissLumos is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Mushroom House" (https://skfb.ly/puwvF) by nickheitzman is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -260,11 +260,6 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Spellbound Mailbox" (https://skfb.ly/6ZIUL) by nickheitzman is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "LowPoly Stylized Red Color Stool" (https://skfb.ly/oEtnV) by cat is activated is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Music Box - Game Prop" (https://skfb.ly/oSwxv) by Thanh Phuc is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-
-  
-## Sounds
-
 
 ## Images
 - <a href="https://www.flaticon.com/free-icons/animal" title="animal icons">Animal icons created by Rudiyana - Flaticon</a>
