@@ -1,9 +1,9 @@
----
+ --- 
 layout: default
 title: ""
----
+ --- 
 
-<style>
+ <style> 
   body {
     background-color: #0d1117 !important;
     color: #c9d1d9 !important;
@@ -11,7 +11,7 @@ title: ""
   a {
     color: #58a6ff !important;
   }
-</style>
+ </style> 
 # ATTRIBUTIONS #
 
 Some models and images used in the trailer and game come from sources under Creative Commons licenses and are used with attribution.
