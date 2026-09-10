@@ -1,15 +1,3 @@
- --- 
- --- 
-
- <style> 
-  body {
-    background-color: #0d1117 !important;
-    color: #c9d1d9 !important;
-  }
-  a {
-    color: #58a6ff !important;
-  }
- </style> 
 # ATTRIBUTIONS #
 
 Some models and images used in the trailer and game come from sources under Creative Commons licenses and are used with attribution.
