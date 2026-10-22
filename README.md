@@ -262,7 +262,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Music Box - Game Prop" (https://skfb.ly/oSwxv) by Thanh Phuc is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 ## Images
-<h3><strong>Flaticon<strong><h3>
+<strong>Flaticon<strong>
 - <a href="https://www.flaticon.com/free-icons/animal" title="animal icons">Animal icons created by Rudiyana - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/sheep" title="sheep icons">Sheep icons created by Magnific - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/cow" title="cow icons">Cow icons created by surang - Flaticon</a>
@@ -270,7 +270,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 - <a href="https://www.flaticon.com/free-icons/mouse-clicker" title="mouse clicker icons">Mouse clicker icons created by Bartama Graphic - Flaticon</a>
 
 
-<h3><strong>Wikimedia Commons - Note: All assets listed below have been modified for game integration<strong><h3>
+<strong>Wikimedia Commons - Note: All assets listed below have been modified for game integration<strong>
 - <a href="https://commons.wikimedia.org/wiki/File:2022-11-30_The-Blue-Crystal_by-David-Revoy.jpg">David Revoy</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons
 - <a href="https://commons.wikimedia.org/wiki/File:2010-1-meeting-under-the-tree.jpg">David Revoy / Blender Foundation</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
 - <a href="https://commons.wikimedia.org/wiki/File:Bridge-medieval-fantasy-city.png">David Revoy / Blender Foundation</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
