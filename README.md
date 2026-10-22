@@ -2,7 +2,7 @@
 
 Some models and images used in the trailer and game come from sources under Creative Commons licenses and are used with attribution.
 It is intended to provide transparency and give proper credit to the original creators of the assets used.  
-All resources remain the property of their respective authors and have been modified for game integration.
+All resources remain the property of their respective authors.
 
 # Special Thanks #
 
@@ -267,6 +267,8 @@ Your work inspires us and countless others in the community. ❤️🐾
 - <a href="https://www.flaticon.com/free-icons/cow" title="cow icons">Cow icons created by surang - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/goat" title="goat icons">Goat icons created by Aranagraphics - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/mouse-clicker" title="mouse clicker icons">Mouse clicker icons created by Bartama Graphic - Flaticon</a>
+
+Wikimedia Commons - Note: All assets listed below have been modified for game integration.
 - <a href="https://commons.wikimedia.org/wiki/File:2022-11-30_The-Blue-Crystal_by-David-Revoy.jpg">David Revoy</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons
 - <a href="https://commons.wikimedia.org/wiki/File:2010-1-meeting-under-the-tree.jpg">David Revoy / Blender Foundation</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
 - <a href="https://commons.wikimedia.org/wiki/File:Bridge-medieval-fantasy-city.png">David Revoy / Blender Foundation</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
@@ -298,7 +300,6 @@ Your work inspires us and countless others in the community. ❤️🐾
 - <a href="https://commons.wikimedia.org/wiki/File:Colmar_-_Unterlinden_Museum_-_The_Tower_of_Bergheim_by_David_Ortlieb_(1797-1875)_-_Oil_on_Canvas_02.jpg">Txllxt TxllxT</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 - <a href="https://commons.wikimedia.org/wiki/File:%27Sea_Monsters_with_Seals,_a_Skate_and_Other_Fish%27_Hans_Savery_the_Elder,_1626.jpg">Hans Savery the Elder</a>, Public domain, via Wikimedia Commons
 - <a href="https://commons.wikimedia.org/wiki/File:Hugo_Simberg_-_N%C3%A4ky_(1895).jpg">Hugo Simberg</a>, Public domain, via Wikimedia Commons
-- <a title="Txllxt TxllxT, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Colmar_-_Unterlinden_Museum_-_The_Tower_of_Bergheim_by_David_Ortlieb_(1797-1875)_-_Oil_on_Canvas_02.jpg"><img width="330" alt="Colmar - Unterlinden Museum - The Tower of Bergheim by David Ortlieb (1797-1875) - Oil on Canvas" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Colmar_-_Unterlinden_Museum_-_The_Tower_of_Bergheim_by_David_Ortlieb_%281797-1875%29_-_Oil_on_Canvas_02.jpg/330px-Colmar_-_Unterlinden_Museum_-_The_Tower_of_Bergheim_by_David_Ortlieb_%281797-1875%29_-_Oil_on_Canvas_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></a>
   
 ---
 
