@@ -10,7 +10,7 @@ We would like to give our heartfelt thanks to everyone who shares their creation
 Your work inspires us and countless others in the community. ❤️🐾
 
 ## 3D Models
-<u><strong>Sketchfab</strong></u>
+<strong><u>Sketchfab</u></strong>
 - "Crystal Pack Stylized" (https://skfb.ly/6URYJ) by Batuhan13 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Void-Touched Crystal Rock" (https://skfb.ly/pIZXX) by PuzzledPapaya is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Stylized Treasure Map" (https://skfb.ly/6ZVER) by Izzy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
