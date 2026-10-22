@@ -268,6 +268,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 - <a href="https://www.flaticon.com/free-icons/goat" title="goat icons">Goat icons created by Aranagraphics - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/mouse-clicker" title="mouse clicker icons">Mouse clicker icons created by Bartama Graphic - Flaticon</a>
 
+
 Wikimedia Commons - Note: All assets listed below have been modified for game integration.
 - <a href="https://commons.wikimedia.org/wiki/File:2022-11-30_The-Blue-Crystal_by-David-Revoy.jpg">David Revoy</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons
 - <a href="https://commons.wikimedia.org/wiki/File:2010-1-meeting-under-the-tree.jpg">David Revoy / Blender Foundation</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
