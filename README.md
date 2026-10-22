@@ -3,6 +3,7 @@
 Some models and images used in the trailer and game come from sources under Creative Commons licenses and are used with attribution.
 It is intended to provide transparency and give proper credit to the original creators of the assets used.  
 All resources remain the property of their respective authors.
+Note: All assets listed below have been modified for game integration.
 
 # Special Thanks #
 
