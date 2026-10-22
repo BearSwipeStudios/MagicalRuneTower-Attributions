@@ -262,7 +262,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Music Box - Game Prop" (https://skfb.ly/oSwxv) by Thanh Phuc is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 ## Images
-<strong>Flaticon</strong>
+<h4><strong>Flaticon</strong></h4>
 - <a href="https://www.flaticon.com/free-icons/animal" title="animal icons">Animal icons created by Rudiyana - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/sheep" title="sheep icons">Sheep icons created by Magnific - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/cow" title="cow icons">Cow icons created by surang - Flaticon</a>
