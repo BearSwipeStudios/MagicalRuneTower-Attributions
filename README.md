@@ -129,7 +129,6 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Strigiform Shield (Owl Shield)" (https://skfb.ly/o7MZn) by LachieRobertson is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Roman Scutum Shield" (https://skfb.ly/o7ONX) by DennisVanMalderen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Dead Knight Sword and Shield" (https://skfb.ly/ooJNz) by Maksim Batyrev is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- "Deku Shield - OOT" (https://skfb.ly/6UqYH) by Arkhelaos is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Xeno Flora - Alien Plant 01 BHS" (https://skfb.ly/pDR8Q) by Blender Head Studios is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Xeno Flora - Alien Plant 09 BHS" (https://skfb.ly/pD6sz) by Blender Head Studios is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Xeno Flora - Alien Plant 05 BHS" (https://skfb.ly/pD6rJ) by Blender Head Studios is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
